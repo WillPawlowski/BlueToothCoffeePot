@@ -1,0 +1,7 @@
+../Core/Src/Timer.cpp:13:1:Timer::Timer(void (*)())	1
+../Core/Src/Timer.cpp:17:1:Timer::Timer(int, int, void (*)())	1
+../Core/Src/Timer.cpp:28:5:int Timer::setUpTimer(int, int)	1
+../Core/Src/Timer.cpp:35:6:void Timer::updateExecuteMethod(void (*)())	1
+../Core/Src/Timer.cpp:40:6:void Timer::incrementTimer(int)	3
+../Core/Src/Timer.cpp:51:6:void Timer::stopTimer()	1
+../Core/Src/Timer.cpp:58:5:int Timer::getTimeLeft()	1

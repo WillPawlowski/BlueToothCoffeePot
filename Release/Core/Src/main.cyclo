@@ -1,0 +1,13 @@
+../Core/Src/main.cpp:333:6:void turnOffCoffeePot()	1
+../Core/Src/main.cpp:326:6:void turnOnCoffeePot()	1
+../Core/Src/main.cpp:79:6:void SystemClock_Config()	4
+../Core/Src/main.cpp:44:5:int main()	4
+../Core/Src/main.cpp:264:9:uint8_t receiveBT_Data(int)	2
+../Core/Src/main.cpp:276:6:void HAL_LPTIM_AutoReloadMatchCallback(LPTIM_HandleTypeDef*)	1
+../Core/Src/main.cpp:283:6:void HAL_UART_ErrorCallback(UART_HandleTypeDef*)	1
+../Core/Src/main.cpp:349:6:void translateTime(int, int*, int*, int*)	1
+../Core/Src/main.cpp:338:6:void startNewTimer()	1
+../Core/Src/main.cpp:294:6:void printOptions()	6
+../Core/Src/main.cpp:287:6:void HAL_UART_RxCpltCallback(UART_HandleTypeDef*)	1
+../Core/Src/main.cpp:362:6:void Error_Handler()	1
+../Core/Src/main.cpp:371:1:cpp)	1

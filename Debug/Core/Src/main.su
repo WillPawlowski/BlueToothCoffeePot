@@ -1,0 +1,18 @@
+../Core/Src/main.cpp:44:5:int main()	8	static
+../Core/Src/main.cpp:79:6:void SystemClock_Config()	128	static
+../Core/Src/main.cpp:133:13:void MX_LPTIM1_Init()	8	static
+../Core/Src/main.cpp:163:13:void MX_USART1_UART_Init()	8	static
+../Core/Src/main.cpp:187:13:void MX_USART2_UART_Init()	8	static
+../Core/Src/main.cpp:211:13:void MX_GPIO_Init()	56	static
+../Core/Src/main.cpp:264:9:uint8_t receiveBT_Data(int)	24	static
+../Core/Src/main.cpp:278:6:void HAL_LPTIM_AutoReloadMatchCallback(LPTIM_HandleTypeDef*)	16	static
+../Core/Src/main.cpp:285:6:void HAL_UART_ErrorCallback(UART_HandleTypeDef*)	16	static
+../Core/Src/main.cpp:289:6:void HAL_UART_RxCpltCallback(UART_HandleTypeDef*)	16	static
+../Core/Src/main.cpp:296:6:void printOptions()	24	static
+../Core/Src/main.cpp:328:6:void turnOnCoffeePot()	24	static
+../Core/Src/main.cpp:337:6:void turnOffCoffeePot()	8	static
+../Core/Src/main.cpp:342:6:void startNewTimer()	32	static
+../Core/Src/main.cpp:353:6:void translateTime(int, int*, int*, int*)	32	static
+../Core/Src/main.cpp:366:6:void Error_Handler()	8	static,ignoring_inline_asm
+../Core/Src/main.cpp:375:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../Core/Src/main.cpp:375:1:cpp)	8	static
